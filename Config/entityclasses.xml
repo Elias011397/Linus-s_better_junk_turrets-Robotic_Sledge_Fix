@@ -1,0 +1,26 @@
+<configs>
+
+
+	<append xpath="/entity_classes/entity_class[@name='junkTurretGun']">
+		<property name="YawRange" value="120"/>
+		<property name="PitchRange" value="85"/>
+		<property name="MaxDistance" value="30"/>
+		<property name="EntityDamage" value="25"/>
+		<property name="RaySpread" value=".25"/>
+		<property name="MaxOwnerDistance" value="40"/>
+	</append>
+	
+	<append xpath="/entity_classes/entity_class[@name='junkTurretSledge']">
+		<property name="YawRange" value="120"/>
+		<property name="PitchRange" value="85"/>
+		<property name="MaxDistance" value="2.7"/>
+		<property name="EntityDamage" value="25"/>
+		<property name="RaySpread" value=".25"/>
+		<property name="MaxOwnerDistance" value="40"/>
+	</append>
+	
+
+</configs>
+
+
+	
